@@ -54,7 +54,9 @@ The following is the list of heading elements available in HTML. They are ordere
 ### Displaying Text
 ```html
 <div>
-  <p><span>Self-driving cars</span> are anticipated to replace up to 2 million jobs over the next two decades.</p>
+  <p>
+    <span>Self-driving cars</span> are anticipated to replace up to 2 million jobs over the next two decades.
+  </p>
 </div>
 ```
 It’s best to use a <span> element when you want to target a specific piece of content that is inline, or on the same line as other text.
